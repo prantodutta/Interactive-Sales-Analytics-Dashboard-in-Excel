@@ -70,5 +70,5 @@ This dashboard helped the business:
 # Dashboard Preview
 Show what the dashboard looks like. 
 ### 🔹 Sales Performance Dashboard
-Example: ![Dasgboard Preview]()
+Example: ![Dasgboard Preview](https://github.com/prantodutta/Interactive-Sales-Analytics-Dashboard-in-Excel/blob/main/Interactive%20Sales%20Analytics%20Dashboard%20in%20Excel%20(SS).png)
 
